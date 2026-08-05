@@ -6,29 +6,39 @@ Frontend developer from Tehran, Iran — building fast, modern web apps with Rea
 
 ## Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/000000" alt="React" width="52" height="52" style="background:#61DAFB;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" width="52" height="52" style="background:#000000;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" alt="TypeScript" width="52" height="52" style="background:#3178C6;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/javascript/000000" alt="JavaScript" width="52" height="52" style="background:#F7DF1E;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" width="52" height="52" style="background:#06B6D4;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/remix/ffffff" alt="Remix" width="52" height="52" style="background:#000000;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/redux/ffffff" alt="Redux" width="52" height="52" style="background:#764ABC;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/reactquery/ffffff" alt="React Query" width="52" height="52" style="background:#FF4154;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/reacthookform/ffffff" alt="React Hook Form" width="52" height="52" style="background:#EC5990;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/antdesign/ffffff" alt="Ant Design" width="52" height="52" style="background:#0170FE;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/axios/ffffff" alt="Axios" width="52" height="52" style="background:#5A29E4;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML5" width="52" height="52" style="background:#E34F26;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/css3/ffffff" alt="CSS3" width="52" height="52" style="background:#1572B6;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/git/ffffff" alt="Git" width="52" height="52" style="background:#F05032;border-radius:14px;padding:10px;margin:6px"/>
+</p>
 
 ## Currently learning
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nestjs/ffffff" alt="NestJS" width="52" height="52" style="background:#E0234E;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" alt="PostgreSQL" width="52" height="52" style="background:#4169E1;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" alt="Prisma" width="52" height="52" style="background:#2D3748;border-radius:14px;padding:10px;margin:6px"/>
+  <img src="https://cdn.simpleicons.org/openai/ffffff" alt="OpenAI" width="52" height="52" style="background:#412991;border-radius:14px;padding:10px;margin:6px"/>
+</p>
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaaa1194@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alirezaaa1194)
+<p align="center">
+  <a href="mailto:alirezaaa1194@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Email" width="48" height="48" style="background:#EA4335;border-radius:14px;padding:10px;margin:6px"/>
+  </a>
+  <a href="https://github.com/alirezaaa1194">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="48" height="48" style="background:#181717;border-radius:14px;padding:10px;margin:6px"/>
+  </a>
+</p>
