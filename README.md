@@ -1,6 +1,6 @@
 # Alireza Nouri
 
-Frontend Developer from Tehran — still learning, still building.
+Frontend developer from Tehran, Iran — building fast, modern web apps with React, Next.js and TypeScript. Currently leveling up into AI engineering and backend with Nest.js, PostgreSQL and Prisma.
 
 ---
 
