@@ -8,6 +8,7 @@ Frontend developer from Tehran, Iran — building fast, modern web apps with Rea
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="44" height="44" style="background:#fff;border:1px solid #e4e4e7;border-radius:12px;padding:8px;margin:5px"/>
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" width="44" height="44" style="background:#fff;border:1px solid #e4e4e7;border-radius:12px;padding:8px;margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" height="44" style="background:#fff;border:1px solid #e4e4e7;border-radius:12px;padding:8px;margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44" style="background:#fff;border:1px solid #e4e4e7;border-radius:12px;padding:8px;margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" style="background:#fff;border:1px solid #e4e4e7;border-radius:12px;padding:8px;margin:5px"/>
